@@ -1,0 +1,2 @@
+# CoolExtensionDemo
+Another test repository
